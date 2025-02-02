@@ -1,0 +1,456 @@
+.sutake {
+    text-align: center;
+    line-height: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.a {
+    background: linear-gradient(270deg, rgb(170, 216, 156), #5cbe3e);
+    border-color: black;
+    width: 1870px;
+    position: relative;
+    top: 26px;
+    padding-left: 30px;
+    height: 30px;
+    padding-top: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+.osirase {
+    padding-top: 30px;
+    padding-left: 20px;
+    line-height: 20px;
+}
+
+.aisatu {
+    background: linear-gradient(270deg, rgb(170, 216, 156), #5cbe3e);
+    border-color: black;
+    width: 1870px;
+    position: relative;
+    top: 26px;
+    padding-left: 30px;
+    height: 30px;
+    padding-top: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+.aisatukotoba {
+    line-height: 20px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.・ {
+    padding-left: 100px;
+}
+
+.sa-bisu {
+    background: linear-gradient(270deg, rgb(170, 216, 156), #5cbe3e);
+    border-color: black;
+    width: 1870px;
+    position: relative;
+    top: 26px;
+    right: 100px;
+    padding-left: 30px;
+    height: 30px;
+    padding-top: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+.sabisu {
+    line-height: 1.75;
+    padding-top: 30px;
+    position: relative;
+    right: 80px;
+}
+
+.riyou {
+    background: linear-gradient(270deg, rgb(170, 216, 156), #5cbe3e);
+    border-color: black;
+    width: 1870px;
+    position: relative;
+    top: 26px;
+    padding-left: 30px;
+    height: 30px;
+    padding-top: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+.sikaku1 {
+    width: 80px;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.164);
+    position: relative;
+    top: 80px;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 50% 100%, 0 50%);
+    text-align: center;
+}
+
+.zu1 {
+    position: relative;
+    bottom: 30px;
+    left: 25px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.63);
+}
+
+.sikaku2 {
+    width: 80px;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.164);
+    position: relative;
+    bottom: 30px;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 50% 100%, 0 50%);
+    text-align: center;
+}
+
+.zu2 {
+    position: relative;
+    left: 25px;
+    bottom: 140px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.63);
+    top: -140px;
+}
+
+.sikaku3 {
+    width: 80px;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.164);
+    position: relative;
+    bottom: 140px;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 50% 100%, 0 50%);
+    text-align: center;
+}
+
+.zu3 {
+    position: relative;
+    bottom: 250px;
+    left: 25px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.63);
+}
+
+.sikaku4 {
+    width: 80px;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.164);
+    position: relative;
+    bottom: 250px;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 50% 100%, 0 50%);
+    text-align: center;
+}
+
+.zu4 {
+    position: relative;
+    bottom: 360px;
+    left: 25px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.63);
+}
+
+.sikaku5 {
+    width: 80px;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.164);
+    position: relative;
+    bottom: 360px;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 50% 100%, 0 50%);
+    text-align: center;
+}
+
+.zu5 {
+    position: relative;
+    bottom: 470px;
+    left: 25px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.63);
+}
+
+.sikaku6 {
+    width: 80px;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.164);
+    position: relative;
+    bottom: 470px;
+    text-align: center;
+}
+
+.zu6 {
+    position: relative;
+    bottom: 580px;
+    left: 25px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.63);
+}
+
+.waku1 {
+    width: 230px;
+    height: 80px;
+    left: 80px;
+    background-color: rgba(0, 0, 0, 0.315);
+    position: relative;
+    bottom: 1081px;
+}
+
+.waku2 {
+    width: 230px;
+    height: 80px;
+    left: 80px;
+    background-color: rgba(0, 0, 0, 0.315);
+    position: relative;
+    bottom: 1078px;
+}
+
+.waku3 {
+    width: 230px;
+    height: 80px;
+    left: 80px;
+    background-color: rgba(0, 0, 0, 0.315);
+    position: relative;
+    bottom: 1074px;
+}
+
+.waku4 {
+    width: 230px;
+    height: 80px;
+    left: 80px;
+    background-color: rgba(0, 0, 0, 0.315);
+    position: relative;
+    bottom: 1071px;
+}
+
+.waku5 {
+    width: 230px;
+    height: 80px;
+    left: 80px;
+    background-color: rgba(0, 0, 0, 0.315);
+    position: relative;
+    bottom: 1067px;
+}
+
+.waku6 {
+    width: 230px;
+    height: 80px;
+    left: 80px;
+    background-color: rgba(0, 0, 0, 0.315);
+    position: relative;
+    bottom: 1063px;
+}
+
+.setumei1 {
+    position: relative;
+    bottom: 1570px;
+    left: 100px;
+    font-weight: bold;
+}
+
+.setumei2 {
+    position: relative;
+    bottom: 1526px;
+    left: 100px;
+    font-weight: bold;
+}
+
+.setumei3 {
+    position: relative;
+    bottom: 1482px;
+    left: 100px;
+    font-weight: bold;
+}
+
+.setumei4 {
+    position: relative;
+    bottom: 1440px;
+    left: 100px;
+    font-weight: bold;
+}
+
+.setumei5 {
+    position: relative;
+    bottom: 1397px;
+    left: 100px;
+    font-weight: bold;
+}
+
+.setumei6 {
+    position: relative;
+    bottom: 1349px;
+    left: 100px;
+    font-weight: bold;
+}
+
+.one {
+    border: 1px dotted rgba(0, 0, 0, 0.541);
+    position: relative;
+    bottom: 1739px;
+    width: 1250px;
+}
+
+.two {
+    border: 1px dotted rgba(0, 0, 0, 0.541);
+    position: relative;
+    bottom: 1666px;
+    width: 1250px;
+}
+
+.three {
+    border: 1px dotted rgba(0, 0, 0, 0.541);
+    position: relative;
+    bottom: 1592px;
+    width: 1250px;
+}
+
+.four {
+    border: 1px dotted rgba(0, 0, 0, 0.541);
+    position: relative;
+    bottom: 1519px;
+    width: 1250px;
+}
+
+.five {
+    border: 1px dotted rgba(0, 0, 0, 0.541);
+    position: relative;
+    bottom: 1445px;
+    width: 1250px;
+}
+
+.six {
+    border: 1px dotted rgba(0, 0, 0, 0.541);
+    position: relative;
+    bottom: 1371px;
+    width: 1250px;
+}
+
+.syou1 {
+    position: relative;
+    bottom: 1876px;
+    left: 320px;
+    color: #000;
+    line-height: 15px;
+}
+
+.syou2 {
+    position: relative;
+    bottom: 1856px;
+    left: 320px;
+    color: #000;
+    line-height: 15px;
+}
+
+.syou3 {
+    position: relative;
+    bottom: 1805px;
+    left: 320px;
+    color: #000;
+    line-height: 15px;
+}
+
+.syou4 {
+    position: relative;
+    bottom: 1784px;
+    left: 320px;
+    color: #000;
+    line-height: 15px;
+}
+
+.syou5 {
+    position: relative;
+    bottom: 1729px;
+    left: 320px;
+    color: #000;
+    line-height: 15px;
+}
+
+.syou6 {
+    position: relative;
+    bottom: 1677px;
+    left: 320px;
+    color: #000;
+    line-height: 15px;
+}
+
+.sonota {
+    color: #000;
+    line-height: 10px;
+    position: relative;
+    bottom: 1620px;
+    left:20px;
+}
+.sonotatenn {
+    color: #000;
+    position: relative;
+    bottom: 1610px;
+    left: 25px;
+}
+.i {
+    position: relative;
+    left: 360px;
+    bottom: 24px;
+}
+.u {
+    position: relative;
+    bottom: 22px;
+}
+.e {
+    left: 360px;
+    position: relative;
+    bottom: 45px;
+}
+.o {
+    bottom: 45px;
+    position: relative;
+}
+.saigo {
+    color: #000;
+    position: relative;
+    bottom: 1650px;
+    font-size: 20px;
+    left: 50px;
+}
+.houzinn {
+    background: linear-gradient(270deg, rgb(170, 216, 156), #5cbe3e);
+    border-color: black;
+    width: 1870px;
+    position: relative;
+    bottom: 1600px;
+    padding-left: 30px;
+    height: 30px;
+    padding-top: 6px;
+    color: white;
+    font-weight: bold;
+}
+.owari {
+    color: #000;
+    position: relative;
+    bottom: 1580px;
+    left: 30px;
+    line-height: 15px;
+}
+.setumei {
+    color: #000;
+    position: relative;
+    bottom: 1890px;
+    left: 180px;
+    line-height: 15px;
+}
+p {
+    font-weight: lighter;
+}
+li {
+    font-weight: lighter;
+}
+.kesu {
+    color: white;
+}
+.aikonn {
+    position: relative;
+    top: 90px;
+    left: 210px;
+}
