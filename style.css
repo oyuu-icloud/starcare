@@ -442,9 +442,11 @@
 }
 p {
     font-weight: lighter;
+    font-family: sans-serif;
 }
 li {
     font-weight: lighter;
+    font-family: sans-serif;
 }
 .kesu {
     color: white;
