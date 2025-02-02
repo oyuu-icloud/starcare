@@ -454,3 +454,10 @@ li {
     top: 90px;
     left: 720px;
 }
+.senn {
+    background: linear-gradient(270deg, rgb(170, 216, 156), #5cbe3e);
+    width: 1870px;
+    height: 30px;
+    position: relative;
+    bottom: 1900px;
+}
